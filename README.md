@@ -2,6 +2,20 @@
 
 A comprehensive Django-based car rental management system with modern features including REST API, advanced search, email notifications, and robust security.
 
+## 🏷️ Badges
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=plastic)
+![Django](https://img.shields.io/badge/Django-Framework-green?style=plastic)
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=plastic)
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=plastic)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Frontend-purple?style=plastic)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=plastic)
+![REST API](https://img.shields.io/badge/DRF-REST%20API-red?style=plastic)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=plastic)
+
+---
+
+
 ## ✨ Features
 
 ### 🔐 Authentication & Security
